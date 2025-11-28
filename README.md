@@ -14,5 +14,5 @@ Flutter 3.x
 Android SDK
 Dependencias configuradas en pubspec.yaml
 
-Enlace de video : https://drive.google.com/file/d/1FPkCTdJRF4iDGFCqvLHQkOkD6fdFGl1f/view?usp=sharing
+Enlace de video : https://drive.google.com/file/d/1spV1RZpJaI6_vu0r5NwWjoN_qEziEcWN/view?usp=drive_link
 
