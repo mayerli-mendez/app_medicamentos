@@ -5,7 +5,8 @@ import '../models/medicamento.dart';
 
 class ApiService {
   //final String baseUrl = "http://10.0.2.2/medicamentos_api/"; emulador
-   final String baseUrl = "http://192.168.100.56/medicamentos_api/"; //celular
+
+   final String baseUrl = "http://IPMAQUINA/medicamentos_api/"; //celular
   // ---------- USUARIOS ----------
 
   Future<bool> registrarUsuario({
