@@ -1,16 +1,18 @@
-# app_medicamentos
+App Medicamentos
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para apoyar la gestión de medicamentos en adultos mayores mediante notificaciones por vibración y colorimetría, facilitando el recordatorio de tomas y reduciendo errores.
+Incluye autenticación básica, registro de medicamentos, alertas programadas y diseño accesible.
 
-## Getting Started
+Características principales
+Registro y gestión de medicamentos.
+Notificaciones locales configurables.
+Vibración y colorimetría para mejorar la accesibilidad.
+Interfaz intuitiva desarrollada con Flutter y Material Design.
 
-This project is a starting point for a Flutter application.
+Requisitos
+Flutter 3.x
+Android SDK
+Dependencias configuradas en pubspec.yaml
 
-A few resources to get you started if this is your first Flutter project:
+Enlace de video : https://drive.google.com/file/d/1FPkCTdJRF4iDGFCqvLHQkOkD6fdFGl1f/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
